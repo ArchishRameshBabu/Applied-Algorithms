@@ -1,2 +1,2 @@
 # Applied-Algorithms
-Implementation of popular algorithms
+List of popular algorithm implemented in Python
